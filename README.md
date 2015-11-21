@@ -129,7 +129,7 @@ This file contains a number of front-end interview questions that can be used wh
 * Have you ever used JavaScript templating?
   * If so, what libraries have you used? (Mustache.js, Handlebars etc.)
 * Explain "hoisting".
-* Describe event bubbling.
+* Describe event bubbling. [link](http://javascript.info/tutorial/bubbling-and-capturing)
 * What's the difference between an "attribute" and a "property"?
 * Why is extending built in JavaScript objects not a good idea?
 * Difference between document load event and document ready event?
