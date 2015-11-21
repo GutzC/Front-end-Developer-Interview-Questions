@@ -106,13 +106,13 @@ This file contains a number of front-end interview questions that can be used wh
 ####[[⬆]](#toc) <a name='js'>JS Questions:</a>
 
 * Explain event delegation
-* Explain how `this` works in JavaScript [link](http://javascript.info/tutorial/this#four-scents-of-this)
-* Explain how prototypal inheritance works
+* [Explain how `this` works in JavaScript](http://javascript.info/tutorial/this#four-scents-of-this)
+* [Explain how prototypal inheritance works](http://javascript.info/tutorial/inheritance)
 * How do you go about testing your JavaScript?
 * AMD vs. CommonJS?
 * Explain why the following doesn't work as an IIFE: `function foo(){ }();`. 
   * What needs to be changed to properly make it an IIFE?
-* What's the difference between a variable that is: `null`, `undefined` or `undeclared`? [link](http://stackoverflow.com/questions/5076944/what-is-the-difference-between-null-and-undefined-in-javascript)
+* [What's the difference between a variable that is: `null`, `undefined` or `undeclared`?](http://stackoverflow.com/questions/5076944/what-is-the-difference-between-null-and-undefined-in-javascript)
   * How would you go about checking for any of these states?
 * What is a closure, and how/why would you use one?
 * What's a typical use case for anonymous functions?
