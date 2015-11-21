@@ -71,6 +71,7 @@ This file contains a number of front-end interview questions that can be used wh
 * Describe the difference between `<script>`, `<script async>` & `<script defer>`.
 
 ####[[⬆]](#toc) <a name='css'>CSS Questions:</a>
+[CSS Refresher](https://github.com/vasanthk/css-refresher-notes)
 * What is the difference between classes and ID's in CSS?
 * Describe what a "reset" CSS file does and how it's useful.
 * Describe Floats and how they work.
