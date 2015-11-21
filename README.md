@@ -45,7 +45,7 @@ This file contains a number of front-end interview questions that can be used wh
 * What are the differences between Long-Polling, Websockets and SSE?
 * Explain the importance of standards and standards bodies.
 * What is FOUC? How do you avoid FOUC?
-* Do your best to describe the process from the time you type in a website's URL to it finishing loading on your screen.
+* Do your best to describe the process from the time you type in a website's URL to it finishing loading on your screen. [link](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
 * Explain what ARIA and screenreaders are, and how to make a website accessible.
 * Explain some of the pros and cons for CSS animations versus JavaScript animations
 * Explain the following request and response headers:
@@ -125,7 +125,7 @@ This file contains a number of front-end interview questions that can be used wh
 * When would you use `document.write()`?
 * What's the difference between feature detection, feature inference, and using the UA string
 * Explain AJAX in as much detail as possible.
-* Explain how JSONP works (and how it's not really AJAX).
+* Explain how JSONP works (and how it's not really AJAX). [link](https://johnnywey.wordpress.com/2012/05/20/jsonp-how-does-it-work/)
 * Have you ever used JavaScript templating?
   * If so, what libraries have you used? (Mustache.js, Handlebars etc.)
 * Explain "hoisting".
